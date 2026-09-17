@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\CALTRANS Signal Interface\CALTRANS Signal Interface.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=caltrans signal interface-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=caltrans signal interface-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

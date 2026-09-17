@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CALTRANS Signal Interface.PcbDoc   2/6/2026  7:29:53 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Components to Signals
+ASCII RoundHoles File : CALTRANS Signal Interface-RoundHoles.TXT
+ASCII SlotHoles File : CALTRANS Signal Interface-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             13        PTH        96.87mm (3.81inch)
+T2      0.3mm (12mil)           +/-0.08mm (3mil)                  Round             58        PTH        300.87mm (11.85inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        38.14mm (1.50inch)
+T4      1.3mm (51mil)                                             Round             18        PTH        111.40mm (4.39inch)
+T5      2.5mm (98mil)                                             Round             4         PTH        157.31mm (6.19inch)
+T6      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              99
+
+Total Processing Time (hh:mm:ss) : 00:00:00
